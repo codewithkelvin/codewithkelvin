@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codewithkelvin
 - 👀 I’m interested in web development , mobile apps development , creating bots 
 - 🌱 I’m currently learning html , css and javascript
-- 💞️ I’m looking to collaborate on web design , mobile apps and bots projects
+- 💞️ I’m looking to collaborate on web design , mobile apps and bots projects , either paid or voluntary
 - 📫 How to reach me , Phone : 09037175082 , Email : kelvinokwori78@gmail.com
 
 <!---
